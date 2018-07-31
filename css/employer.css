@@ -1,0 +1,57 @@
+#insidenav{
+    background: #696969;
+    color: white;
+    font-size: 13px;
+}
+
+nav a{
+    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+    color: white;
+}
+nav ul li {
+    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+}
+nav ul li.active{
+    background: #fa8e3fe6;
+}
+nav ul li.active a{
+    color: white;
+}
+table.table{
+    background: transparent;
+}
+td.tbold{
+    font-weight: bold;
+}
+table{
+    background: transparent;
+}
+#viewmain{
+    margin-top: 30px;
+}
+span.badge{
+    background: white;
+    color: black;
+}
+div.jumbotron{
+    background: smokewhite;
+    display: inline-block;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+
+}
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+    background: white;
+
+}
+
+.thumbnail img {
+    width: 100 ;
+    height: 100;
+    margin-bottom: 15px;
+}

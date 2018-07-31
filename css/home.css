@@ -1,0 +1,122 @@
+#searchjum{
+    background: transparent;
+    color: #FFFFFF;
+}
+#insidenav{
+background: #696969;
+color: white;
+font-size: 13px;
+border-bottom-color: #ef7f2c;
+border-bottom-width: 3px;
+}
+nav a{
+    font-size: 13px;
+    font-family: "Raleway", sans-serif;
+    color: white;
+}
+nav ul li {
+    font-size: 13px;
+    font-family: "Raleway", sans-serif;
+    font-weight:400;
+}
+li.active{
+    background: #6969;
+}
+#subcontent{
+    background: lavender;
+     color: black;
+    font-size: 13px;
+}
+footer .glyphicon {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #f4511e;
+}
+div.bmsTop{
+    list-style-type: none;
+    display: block;
+    background:transparent;
+    padding: 10px 8px 8px;
+    margin-bottom: 10px;
+
+}
+div.bmsTop ul li{
+    display: inline;
+    overflow: hidden;
+}
+.panel {
+    border: 1px solid transparent;
+    border-radius:0;
+    transition: box-shadow 0.5s;
+}
+
+.panel:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.panel-footer .btn:hover {
+    border: 1px solid #f4511e;
+    background-color: #fff !important;
+    color: #f4511e;
+}
+
+.panel-heading {
+    color: #fff !important;
+    background-color: transparent;
+    padding: 25px;
+    border-bottom: 3px solid #ef7f2c;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+
+}
+
+.panel-footer {
+    background-color: transparent !important;
+}
+
+.panel-footer h3 {
+    font-size: 32px;
+}
+
+.panel-footer h4 {
+    color: #aaa;
+    font-size: 14px;
+}
+
+.panel-footer .btn {
+    margin: 15px 0;
+    background-color: #f4511e;
+    color: #fff;
+}
+body{
+    background-image: url("../images/employmentt.jpg");
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;" 
+    font-family: Ubuntu ;
+    font-weight: normal;
+    font-size: 16px;
+}
+  .col-centered{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+} 
+ .btn {
+background: #6969;
+ }
+#ask{ border-color: rgb(230, 174, 72);
+border-style: solid;
+border-width: 2px;
+border-radius: 41px 0px 41px 0px;
+box-shadow: rgb(153, 153, 153) 0px 0px 0px 0px;
+background: #00000080;
+margin: 4px;
+}
+div #ask: hover{
+background: whitesmoke;
+text-color:#12121299;
+}
+.go{ font-size: 16px ; font-style:semibold;font-color:#398439 ; background-color:}
